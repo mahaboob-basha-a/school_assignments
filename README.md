@@ -5,9 +5,8 @@ This API allows teachers and students to manage assignments, submissions, and gr
 ## Installation
 
 ```bash
-git clone URL
-cd Project
-npm i
+git clone https://github.com/mahaboob-basha-a/school_assignments.git
+npm install
 ```
 
 ## Base URL
